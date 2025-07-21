@@ -248,7 +248,7 @@ typedef struct s_list
 
   Maps the `f` function from every element in `lst` into a new list.
 
-### :printer: ``ft_`` functions
+### :printer: ``ft_printf`` functions
 
 These ones belong to an independent project ([ft_](https://github.com/alexpg7/ft_))
 
